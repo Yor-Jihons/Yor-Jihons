@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Yor-Jihons.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yor-Jihons)](https://github.com/Yor-Jihons/github-readme-stats)
+
 <!--
 **Yor-Jihons/Yor-Jihons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

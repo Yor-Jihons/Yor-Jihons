@@ -4,7 +4,7 @@ I'm Yor-Jihons(he/they) - I like C++, C# and Electron.
 
 #### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,electron,md,nodejs,php,py,react,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,electron,md,nodejs,php,py,react,ts,js,html,css&perline=8)](https://skillicons.dev)
 
 #### Status
 
@@ -13,7 +13,7 @@ I'm Yor-Jihons(he/they) - I like C++, C# and Electron.
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Yor-Jihons&theme=gruvbox&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yor-Jihons&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yor-Jihons&theme=onedark)](https://github.com/Yor-Jihons/)
 
 
 <!--

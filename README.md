@@ -1,4 +1,8 @@
-### Hi there 👋 I'm Yor-Jihons.
+### Hi there 👋
+
+I'm Yor-Jihons(he/they) - (introducing me)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,electron,md,nodejs,php,py,react,ts,js,html,css)](https://skillicons.dev)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yor-Jihons&layout=compact&theme=onedark" />
@@ -6,10 +10,6 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yor-Jihons&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-### My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,electron,md,nodejs,php,py,react,ts,js,html,css)](https://skillicons.dev)
 
 <!--
 **Yor-Jihons/Yor-Jihons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

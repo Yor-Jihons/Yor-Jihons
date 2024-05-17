@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Yor-Jihons(he/they) - (introducing me)
-
+I'm Yor-Jihons(he/they) - I like C++, C# and Electron.
 
 #### My Skills
 

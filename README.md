@@ -2,7 +2,7 @@
 
 ![Yor-Jihons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yor-Jihons&theme=gruvbox&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yor-Jihons)](https://github.com/Yor-Jihons/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yor-Jihons&theme=onedark)](https://github.com/Yor-Jihons/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yor-Jihons&theme=onedark)](https://github.com/anuraghazra/github-profile-trophy)
 
 
 

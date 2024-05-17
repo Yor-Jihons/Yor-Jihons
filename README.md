@@ -9,7 +9,7 @@
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,electron,md,nodejs,php,py,react,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,electron,md,nodejs,php,py,react,ts,js,html,css&theme=onedark)](https://skillicons.dev)
 
 <!--
 **Yor-Jihons/Yor-Jihons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

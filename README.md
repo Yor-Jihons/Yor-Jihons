@@ -12,6 +12,8 @@ I'm Yor-Jihons(he/they) - (introducing me)
 
 [![Yor-Jihons's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yor-Jihons&theme=gruvbox&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
+#### My Top Langs
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yor-Jihons&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Trophy

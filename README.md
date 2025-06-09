@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yor-Jihons(he/they) - I like C++, C# and Electron.
+I'm Yor-Jihons(he/they) - I like C++, C#, React and Electron.
 
 #### My Skills
 

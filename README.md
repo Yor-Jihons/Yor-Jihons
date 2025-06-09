@@ -4,7 +4,7 @@ I'm Yor-Jihons(he/they) - I like C++, C# and Electron.
 
 #### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,cs,dotnet,electron,react,ts,js,nodejs,html,css,md,github,git,php,mysql,sqlite,vscode,java,qt,go&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,cs,dotnet,electron,react,ts,js,nodejs,html,css,md,github,git,php,mysql,sqlite,vscode,java,qt,go,bash,jest,nextjs,npm,powershell&perline=11)](https://skillicons.dev)
 
 #### Status
 

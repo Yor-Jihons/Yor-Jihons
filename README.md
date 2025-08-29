@@ -5,7 +5,7 @@ I enjoy creating CLI tools that simplify repetitive tasks by automating multiple
 
 - 🌱 I'm currently learning Next.js with Static Site Generation.
 
-https://badges.pufler.dev/commits/all/Yor-Jihons
+<img alt="Endpoint Badge" src="https://img.shields.io/endpoint">
 
 ### GitHub Activity Graph
 

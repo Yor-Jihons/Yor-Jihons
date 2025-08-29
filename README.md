@@ -5,8 +5,6 @@ I enjoy creating CLI tools that simplify repetitive tasks by automating multiple
 
 - 🌱 I'm currently learning Next.js with Static Site Generation.
 
-<img alt="Endpoint Badge" src="https://img.shields.io/endpoint">
-
 ### GitHub Activity Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yor-Jihons&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph)

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yor-Jihons(he/they) - I like C++, C#, React and Electron.
+I'm Yor-Jihons(he/they) - I like C++, C#, TypeScript, React and Electron.
 I enjoy creating CLI tools that simplify repetitive tasks by automating multiple steps with a single command.
 
 - 🌱 I'm currently learning Next.js with Static Site Generation.

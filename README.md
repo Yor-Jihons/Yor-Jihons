@@ -9,7 +9,7 @@ I enjoy creating CLI tools that simplify repetitive tasks by automating multiple
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yor-Jihons&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yor-Jihons&v=1)](https://github.com/konataleads/github-streak-stats/)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yor-Jihons&cache=1)](https://github.com/konataleads/github-streak-stats/)
 
 #### My Skills
 

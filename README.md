@@ -5,6 +5,30 @@ I enjoy creating CLI tools that simplify repetitive tasks by automating multiple
 
 - 🌱 I'm currently learning Next.js and Go-lang.
 
+```bash
+$ whoami
+  architect --read-structure
+  solve --by=structure
+
+$ solve --help
+
+NAME:
+  solve - 構造で問題を解決するCLI的思考
+
+COMMANDS:
+  analyze   抽象化と本質抽出
+  map       構造の可視化
+  refactor  ノイズ除去
+  optimize  最短距離で解決
+
+$ ls ./skills
+  analyze      # 本質抽出
+  map          # 構造可視化
+  refactor     # ノイズ除去
+  optimize     # 最短距離で解決
+  architect    # 構造設計
+```
+
 ### GitHub Activity Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yor-Jihons&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph)

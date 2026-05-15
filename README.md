@@ -10,23 +10,35 @@ $ whoami
   architect --read-structure
   solve --by=structure
 
-$ solve --help
+$ skills list
+Core Abilities:
+    meaning-structure Understand concepts by meaning & flow
+    abstraction Extract essence from complex problems
+    structuring Build clear input→process→output flows
+    automation Convert flows into scripts/tools
+    compression Express more with less (minimalism)
+Workflow:
+    pipeline-thinking
+    script-first
+    gui-minimal
+    reproducible-processes
 
-NAME:
-  solve - 構造で問題を解決するCLI的思考
-
-COMMANDS:
-  analyze   抽象化と本質抽出
-  map       構造の可視化
-  refactor  ノイズ除去
-  optimize  最短距離で解決
-
-$ ls ./skills
-  analyze      # 本質抽出
-  map          # 構造可視化
-  refactor     # ノイズ除去
-  optimize     # 最短距離で解決
-  architect    # 構造設計
+$ skills show --id=thinking
+Thinking Style:
+    - Meaning-first understanding
+    - Flow-based reasoning
+    - Structure extraction
+    - Pipeline modeling
+    - Minimalist information processing
+Thinking Style:
+    - Meaning-first understanding
+    - Flow-based reasoning
+    - Structure extraction
+    - Pipeline modeling
+    - Minimalist information processing
+Why it matters:
+    Enables fast learning, efficient workflows,
+    and powerful automation.
 ```
 
 ### GitHub Activity Graph
